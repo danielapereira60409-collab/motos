@@ -110,7 +110,7 @@ export default function Home() {
 
 <div className="flex">
               <div className="  border-4 border-white text-center text-white bg-blue-500 p-4  w-1/2 m-6 rounded ">
-            <h1>Moto honda: 5 mil reais</h1>
+            <h1>Moto honda: 10 mil reais</h1>
             <Image
               src="/moto4.jpg"
               alt="foto"
